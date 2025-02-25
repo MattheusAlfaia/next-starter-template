@@ -18,3 +18,10 @@ This is a template for creating applications using Next.js 14 (app directory wit
 
 
 Licensed under the [MIT license](https://github.com/heroui-inc/next-app-template/blob/main/LICENSE).
+
+# instala os pacotes com pnpm
+
+1. altera a .env
+2. comando do prisma
+- Gerar o cliente: npx prisma generate
+- Aplicar as Migrações: npx prisma migrate deploy
